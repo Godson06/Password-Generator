@@ -84,6 +84,4 @@ frm.addEventListener('submit', (e)=>{
     outputElement.value=generatedPassword; // to store password in generatedPassword variable
 });
 
-// String.fromCharCode converts ascii number to the Values
-// Math.random --> generates the random number
-// Math.random()*n --> n is limit randomly display number within the limit
+
